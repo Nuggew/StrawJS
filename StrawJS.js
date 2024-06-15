@@ -1,6 +1,3 @@
-/** COPYRIGHT (C) 2024  **/
-/** ALL RIGHTS RESERVED **/
-
 function notify(title, body, icon, tag) {
     if (!("Notification" in window))
         return 'no_support';
