@@ -5,5 +5,5 @@ A simple lightweight notification library for JavaScript
 This library is the simplest that it could be!
 ```js
 import * as Straw from './StrawJS.min';
-Straw.notify(TITLE, BODY, ICON, TAG);
+const notification = Straw.notify(TITLE, BODY, ICON, TAG);
 ```
