@@ -1,4 +1,4 @@
-# StrawJS<br><a href="https://github.com/Nuggew/StrawJS/releases"><img src="https://img.shields.io/badge/build-passing-brightgreen"></img></a> ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Nuggew/StrawJS/main)
+# StrawJS<br>![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Nuggew/StrawJS/main)
 A simple lightweight notification library for JavaScript
 
 ## How to use?
